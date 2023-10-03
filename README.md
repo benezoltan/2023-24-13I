@@ -3,4 +3,6 @@
 
 https://dummyjson.com/carts
 
+https://szit.hu/doku.php?id=oktatas:programozas:verziokontroll:git:a_git_hasznalata
+
 https://www.selenium.dev/selenium-ide/docs/en/api/commands
