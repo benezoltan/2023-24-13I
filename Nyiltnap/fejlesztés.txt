@@ -1,0 +1,9 @@
+1. A pálya megjelenítése  
+2  Kocka megjelenítése
+3  Mozgató gombok
+4. Kocka helyett ábra
+5. Akadályok megjelenítése
+6. Ütközés ellenőrzése
+7. Pontszám megjelenítése
+8. Felirat megjelenítése
+9. Mozgatás nyíl-billenytűkkel
